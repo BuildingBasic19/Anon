@@ -7,7 +7,7 @@ import { supabase } from '../lib/supabaseClient';
 //
 // Edit these two lines with your own question/answer:
 const VERIFY_QUESTION = 'In which room does the AI-ML class take place?';
-const VERIFY_ANSWER = 'CHANGE_ME';
+const VERIFY_ANSWER = 'LHC-102';
 
 // Normalizes an answer for comparison so small formatting differences
 // (spaces, dashes, casing) don't fail someone who typed it correctly,
